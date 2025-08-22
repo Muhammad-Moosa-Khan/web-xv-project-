@@ -177,9 +177,10 @@ body {
   border: 1px solid #0206ff;
   border-radius: 5px;
   background-color: #18222f;
+  color: white;
 }
 .login form input::placeholder {
-  color: white;
+  color: rgb(255, 0, 0);
   opacity: 1;
 }
 
@@ -245,7 +246,7 @@ body {
   margin-bottom: 29px;
   margin-top: 80px;
   font-weight: 700;
-  font-size: px;
+  font-size:12px px;
   line-height: 32px;
   color: #1026ec;
     transition: 0.3s;
@@ -342,7 +343,6 @@ color: #ffffff;
   color: #0011ff;
 
 }
-
 .crypto-section h1{
 margin: 5px 0 30px;
 font-size: 48px;
